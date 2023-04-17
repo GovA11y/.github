@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="./assets/GovA11y.png" alt="GovA11y Logo" width="200" height="200" align="left">
+  <img src="./assets/GovA11y_lowborder.png" alt="GovA11y Logo" width="250" height="250" align="left">
   <p>GovA11y is an open-source accessibility monitoring tool developed by CivicActions that enables government agencies to quickly and cost-effectively enhance digital accessibility. It provides a one-stop-shop for comparing accessibility metrics across government domains and entities beyond the minimum requirements.</p><br  /><br  /> <br  /><br  /><br  />
 
 
