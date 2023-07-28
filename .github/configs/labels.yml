@@ -199,7 +199,7 @@
   description: Issues or reports that involve data from Security Assessments
   aliases: ['Security', 'Assessments', 'Security Data']
 
-- name: 🪢 Summary Reports by Domain/Organization/Technology
+- name: 🪢 Summary Reports (Domain/Org/Tech)
   color: '6A737D'
   description: Issues or reports that involve data from Summary Reports
   aliases: ['Summary', 'Reports', 'Summary Data']
